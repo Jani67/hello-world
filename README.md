@@ -1,2 +1,2 @@
 # hello-world
-Sharing ideas
+Sharing ideas and something else
